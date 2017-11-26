@@ -1,0 +1,16 @@
+<res>
+   <item name="res/loading/neice.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/hall/rankNum.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/hall/rankN.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/hall/rankN.fnt" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/hall/rankNum.fnt" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/alert/chatbg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/alert/c1_03.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/alert/kuang.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/alert/tiao2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/alert/tiao.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/alert/re.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/font" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/hall" type="" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/avatar" type="" compress="0" pack="1" quality="80" props="" picType="0"/>
+</res>
